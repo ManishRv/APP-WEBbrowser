@@ -1,0 +1,8 @@
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$3.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$6.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$4.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$2.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$5.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$WebCont.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity.class
+CHANGED,C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\power\webbrowser\MainActivity$1.class

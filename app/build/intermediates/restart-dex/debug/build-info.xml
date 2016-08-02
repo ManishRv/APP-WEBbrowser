@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="9452511506852"
+    token="-2953320438176000893"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="134" />
+    <task
+        name="instant-run-dex"
+        duration="397" />
+    <task
+        name="instant-run-transform"
+        duration="22" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="6264932758194" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="6877941748701"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7227340679378"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7227340679378\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7303474773003"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7303474773003\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7341713458050"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7341713458050\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7534646386184"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7534646386184\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7572241801011"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7572241801011\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7638241210598"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7638241210598\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7798432273579"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\7798432273579\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8048162387535"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\8048162387535\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8143020560294"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\builds\debug\8143020560294\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="8205425696639" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="9452511506852"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\power\AndroidStudioProjects\Webbrowser\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
